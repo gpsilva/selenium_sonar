@@ -1,0 +1,1 @@
+java -jar selenium-server-standalone-3.141.59.jar -role node -hub http://192.168.0.104:4444/
